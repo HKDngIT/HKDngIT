@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @HKDngIT
 - 👀 After years of theory and simple coding I want to finally put my know-how in use in the IT industry!
-- ✨ I'm capable of all basics and of Java, C and C++
+- ✨ I'm capable of all basics of Java, C and C++
 - 😊 I have good basic knowledge of electrical science
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: White Cloud Mountain Minnows love to show off but never hurt each other!
+- ⚡ Current and future project(s) for myself:
+  - [ ] Rewrite most of my current source code of tasks from C++ to C#(if possible)
+  - [ ] Analysis program for my aquarium water parameters (in C++ or Java I dont know yet)
+  - [ ] Implement the same program into an android-application
 
 <!---
 HKDngIT/HKDngIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
