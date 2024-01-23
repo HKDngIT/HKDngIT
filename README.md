@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HKDngIT
+- 👋 Hi, I’m @HKDngIT (Khiem)
 - 👀 After years of theory and simple coding I want to finally put my know-how in use in the IT industry!
 - ✨ I'm capable of all basics of Java, C and C++
-- 😊 I have good basic knowledge of electrical science
+- 😊 Basic knowledge in electrical science
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: He/ Him
 - ⚡ Current and future project(s) for myself:
