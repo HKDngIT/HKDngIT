@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HKDngIT (Khiem)
-- 👀 After years of theory and simple coding I want to finally put my know-how in use in the IT industry!
+- 👀 After years of theory in school, study and simple coding I want to finally put my know-how into use in the IT industry!
 - ✨ I have basic knowledge in Java, C and C++...
-- 😊 ... aswell in electrical science
+- 😊 ... and in electrical science as well
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: He/ Him
 - ⚡ Current and future project(s) for myself:
