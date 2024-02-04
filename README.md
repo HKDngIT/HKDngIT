@@ -10,7 +10,7 @@
   - [ ] Analysis program for my aquarium water parameters (in C++ or Java I dont know yet)
   - [ ] Implement the same program into an android-application
  
-# Currently working on:
+# Currently working on
 - Converting old Laptop from Windows into Linux for future use
 
 <!---
