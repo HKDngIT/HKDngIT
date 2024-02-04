@@ -9,6 +9,9 @@
   - [ ] Rewrite most of my current source code of tasks from C++ to C#(if possible)
   - [ ] Analysis program for my aquarium water parameters (in C++ or Java I dont know yet)
   - [ ] Implement the same program into an android-application
+ 
+# Currently working on:
+- Converting old Laptop from Windows into Linux for future uses
 
 <!---
 HKDngIT/HKDngIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
