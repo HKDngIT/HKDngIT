@@ -11,7 +11,7 @@
   - [ ] Implement the same program into an android-application
  
 # Currently working on:
-- Converting old Laptop from Windows into Linux for future uses
+- Converting old Laptop from Windows into Linux for future use
 
 <!---
 HKDngIT/HKDngIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
