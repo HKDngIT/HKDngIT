@@ -11,6 +11,8 @@
   - [ ] Implement the same program into an android-application
   - [ ] Making a simple kanban program
  
+![logos](./Images/CPP.jpg)
+ 
 # Currently working on
 - [x] Converting OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
 - [ ] Using that laptop as a local file server for personal use
