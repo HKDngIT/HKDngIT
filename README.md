@@ -1,3 +1,4 @@
+![logos](./Images/CPP.jpg)
 - 👋 Hi, I’m @HKDngIT (Khiem)
 - 👀 After years of theory in school, study and simple coding I want to finally put my know-how into use in the IT industry!
 - ✨ I have basic knowledge in Java, C and C++...
@@ -19,7 +20,7 @@
 
 
  
-![logos](./Images/CPP.jpg)
+
 <!---
 HKDngIT/HKDngIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
