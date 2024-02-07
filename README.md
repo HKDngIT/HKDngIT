@@ -11,12 +11,12 @@
   - [ ] Implement the same program into an android-application
   - [ ] Making a simple kanban program
  
-![logos](./Images/CPP.jpg)
- 
 # Currently working on
 - [x] Converting OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
 - [ ] Using that laptop as a local file server for personal use
 
+ 
+![logos](./Images/CPP.jpg)
 <!---
 HKDngIT/HKDngIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
