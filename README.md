@@ -15,7 +15,7 @@
   - [ ] Using GITHUB PAGE to publish that site
  
 # Currently working on
-- [x] Converting OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
+- [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
 - [ ] Using that laptop as a local file server for personal use
 
 
