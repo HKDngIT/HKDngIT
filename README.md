@@ -10,11 +10,13 @@
   - [ ] Analysis program for my aquarium water parameters (in C++ or Java I dont know yet)
   - [ ] Implement the same program into an android-application
   - [ ] Making a simple kanban program
+  - [ ] A simple HTML site which represents myself
+  - [ ] Using GITHUB PAGE to publish that site
  
 # Currently working on
 - [x] Converting OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
 - [ ] Using that laptop as a local file server for personal use
-- [ ] A simple HTML site which represents myself
+
 
  
 ![logos](./Images/CPP.jpg)
