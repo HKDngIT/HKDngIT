@@ -13,6 +13,7 @@
  
 # Currently working on
 - [x] Converting OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
+- [ ] Using that laptop as a local file server for personal use
 
 <!---
 HKDngIT/HKDngIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
