@@ -14,6 +14,7 @@
 # Currently working on
 - [x] Converting OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
 - [ ] Using that laptop as a local file server for personal use
+- [ ] A simple HTML site which represents myself
 
  
 ![logos](./Images/CPP.jpg)
