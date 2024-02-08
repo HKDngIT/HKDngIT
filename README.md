@@ -6,19 +6,21 @@
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: He/ Him
 - ⭐ Main goal is to grow my knowledge and add more and more projects to my repositories
-- ⚡ Future project(s) for myself:
+  
+# Tasks and projects in planning
   - [ ] Rewrite most of my current source code of tasks from C++ to C#(if possible)
   - [ ] Analysis program for my aquarium water parameters (in C++ or Java I dont know yet)
   - [ ] Implement the same program into an android-application
   - [ ] Making a simple kanban program
-  - [ ] A simple HTML site which represents myself
   - [ ] Using GITHUB PAGE to publish that site
+  - [ ] Using old laptop as a local file server for personal use
+  - [ ] Programs for basic eletrical science problems
  
 # Currently working on
+- [ ] A simple HTML site which represents myself
+
+# Done tasks or projects
 - [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
-- [ ] Using that laptop as a local file server for personal use
-
-
  
 
 <!---
