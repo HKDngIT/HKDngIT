@@ -23,7 +23,7 @@
 - [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
 
 # Other profiles
-- [Learn.Microsoft](https://learn.microsoft.com/en-us/users/me/)
+At [Learn.Microsoft](https://learn.microsoft.com/en-us/users/me/)
 completed modules:
 - Get started with web development using Visual Studio Code [Link to achievement](https://learn.microsoft.com/api/achievements/share/en-us/HKDng97-9570/FZ9GPCNX?sharingId=40C5DF22D22FE35F)
  
