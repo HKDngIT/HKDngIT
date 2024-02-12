@@ -3,7 +3,7 @@
 - 👀 After years of theory in school, study and simple coding I want to finally put my know-how into use in the IT industry!
 - ✨ I have basic knowledge in Java, C and C++...
 - 😊 ... and in electrical science as well - I'm still a student at "Technische Hochschule Ulm"
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and refreshing my knowledge in HTML+CSS...
 - 😄 Pronouns: He/ Him
 - ⭐ Main goal is to grow my knowledge and add more and more projects to my repositories
   
@@ -17,7 +17,7 @@
   - [ ] Programs for basic eletrical science problems
  
 # Currently working on
-- [ ] A simple HTML site(hosted on github) which represents myself. The link to it is <a href="https://hkdngit.github.io/OwnWebsite/" target="_blank">here</a>
+- [ ] A simple HTML site(hosted on github) which represents myself with the experience gained from microsoft learn modules(see below in section *Other profiles*). The link to the website is https://hkdngit.github.io/OwnWebsite/
 
 # Done tasks or projects
 - [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
