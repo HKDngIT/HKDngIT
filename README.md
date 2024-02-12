@@ -17,7 +17,7 @@
   - [ ] Programs for basic eletrical science problems
  
 # Currently working on
-- [ ] A simple HTML site(hosted in github) which represents myself. The link to it is ![https://hkdngit.github.io/OwnWebsite/target=](https://hkdngit.github.io/OwnWebsite/)
+- [ ] A simple HTML site(hosted in github) which represents myself. The link to it is [https://hkdngit.github.io/OwnWebsite/target=](https://hkdngit.github.io/OwnWebsite/"target="_blank)
 
 # Done tasks or projects
 - [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
