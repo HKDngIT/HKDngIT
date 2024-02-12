@@ -21,6 +21,9 @@
 
 # Done tasks or projects
 - [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
+
+# Other profiles
+- [Learn.Microsoft](https://learn.microsoft.com/en-us/users/me/)
  
 
 <!---
