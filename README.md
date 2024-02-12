@@ -24,6 +24,8 @@
 
 # Other profiles
 - [Learn.Microsoft](https://learn.microsoft.com/en-us/users/me/)
+completed modules:
+- [Get started with web development using Visual Studio Code]
  
 
 <!---
