@@ -1,4 +1,4 @@
-# Notes for new PC planning
+# Planing-Notes for new PC
 Benchmark data is taken from 3DMark.com
 [link](https://www.3dmark.com/de/)  
 Price data is taken from Alternate [link](https://www.alternate.de/configurator.xhtml?pca=20&pco=44&pcp=1&pcs=relevance&filter_7171=660)
