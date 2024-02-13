@@ -19,7 +19,7 @@
 
 # Done tasks or projects
 - [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
-- [x] A simple HTML site with the experience gained from microsoft learn modules(see below in section *Other profiles*). The link to the website is https://hkdngit.github.io/OwnWebsite/
+- [x] A simple HTML site(+CSS & Javascript) with the experience gained from microsoft learn modules(see below in section *Other profiles*). The link to the website is https://hkdngit.github.io/OwnWebsite/
 - [x] Using GITHUB PAGE to publish that site
 
 # Other profiles
