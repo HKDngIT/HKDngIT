@@ -1,5 +1,8 @@
 # Notes for new PC planning
-[Benchmark source](https://www.3dmark.com/de/) is 3DMARK
+Benchmark data is taken from 3DMark.com
+[link](https://www.3dmark.com/de/)  
+Price data is taken from Alternate [link](https://www.alternate.de/configurator.xhtml?pca=20&pco=44&pcp=1&pcs=relevance&filter_7171=660)
+
 
 # GPUs
 GPU | Avg. price | 3DMark Time Spy average score | Benchmark count | 3DMark Speed Way average score | Benchmark count | paired with CPU | GPU launch date |
@@ -14,20 +17,20 @@ RX 7800 XT | 600 € | 20043 | 690 | 3982 | 83 | i7-13700K | August 2023 |
 
 
 # CPUs
-CPU | Avg. price | 3DMark CPU profile average score | Benchmark count | CPU launch date |
-:-: | :--------: | :------------------------------: | :-------------: | :-------------: |
-i7-14700K | 460 € | 14813 | 3531 | Oct 2023 |
-i7-12700K | 320 € | 10131 | 23443 | Nov 2021 |
-i7-13700K | 430 € | 12654 | 23952 | Sep 2022 |
-i5-13600K | 340 € | 10330 | 11217 | Sep 2022 |
-i5-14400 | 240 € | 7321 | 9 | Jan 2024 |
-i5-14500 | 270 € | 9341 | 25 | Jan 2024 |
-i5-13400F | 200 € | 7348 | 2421 | Jan 2023 |
-i5-7500 | - | 2308 | 791 | - |
-Ryzen 9 5900X | 300 € | 10262 | 81525 | Nov 2020 |
-Ryzen 7 5800X | 220 e | 7671 | 79803 | Nov 2020 |
-Ryzen 7 5700X | 185 € | 6873 | 16884 | Apr 2022 |
-Ryzen 7 5800X3D | 290 € | 7293 | 37590 | Apr 2022 |
-Ryzen 5 7600X | 220 € | 7029 | 5945 | Sep 2022 |
-Ryzen 5 7600 | 210 € | 6616 | 2334 | Jan 2023 |
-Ryzen 5 5600X | 160 € | 5685 | 66257 | Nov 2020 |
+CPU | Avg. price | 3DMark CPU profile average score | Benchmark count | CPU launch date | TDP(W) |
+:-: | :--------: | :------------------------------: | :-------------: | :-------------: | :----: |
+i7-14700K | 460 € | 14813 | 3531 | Oct 2023 | 125 W |
+i7-12700K | 320 € | 10131 | 23443 | Nov 2021 | 125 W |
+i7-13700K | 430 € | 12654 | 23952 | Sep 2022 | 125 W |
+i5-13600K | 340 € | 10330 | 11217 | Sep 2022 | 125 W |
+i5-14400 | 240 € | 7321 | 9 | Jan 2024 |  65 W |
+i5-14500 | 270 € | 9341 | 25 | Jan 2024 | 65 W |
+i5-13400F | 200 € | 7348 | 2421 | Jan 2023 | 65 W |
+i5-7500 | - | 2308 | 791 | - | 65 W |
+Ryzen 9 5900X | 300 € | 10262 | 81525 | Nov 2020 | 105 W |
+Ryzen 7 5800X | 220 e | 7671 | 79803 | Nov 2020 | 105 W |
+Ryzen 7 5700X | 185 € | 6873 | 16884 | Apr 2022 | 65 W |
+Ryzen 7 5800X3D | 290 € | 7293 | 37590 | Apr 2022 | 105 W |
+Ryzen 5 7600X | 220 € | 7029 | 5945 | Sep 2022 | 105 W |
+Ryzen 5 7600 | 210 € | 6616 | 2334 | Jan 2023 | 65 W |
+Ryzen 5 5600X | 160 € | 5685 | 66257 | Nov 2020 | 65 W |
