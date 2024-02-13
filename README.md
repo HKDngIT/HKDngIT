@@ -15,7 +15,7 @@
   - [ ] Using old laptop as a local file server for personal use
  
 # Currently working on
-- [ ] Program(s) for basic eletrical science or math problems
+- [ ] Program(s) for basic eletrical science or math problems with C#
 
 # Done tasks or projects
 - [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
