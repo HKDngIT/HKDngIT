@@ -12,15 +12,15 @@
   - [ ] Analysis program for my aquarium water parameters (in C++ or Java I dont know yet)
   - [ ] Implement the same program into an android-application
   - [ ] Making a simple kanban program
-  - [ ] Using GITHUB PAGE to publish that site
   - [ ] Using old laptop as a local file server for personal use
-  - [ ] Programs for basic eletrical science problems
  
 # Currently working on
-- [ ] A simple HTML site(hosted on github) which represents myself with the experience gained from microsoft learn modules(see below in section *Other profiles*). The link to the website is https://hkdngit.github.io/OwnWebsite/
+- [ ] Program(s) for basic eletrical science or math problems
 
 # Done tasks or projects
 - [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
+- [x] A simple HTML site with the experience gained from microsoft learn modules(see below in section *Other profiles*). The link to the website is https://hkdngit.github.io/OwnWebsite/
+- [ ] Using GITHUB PAGE to publish that site
 
 # Other profiles
 At [Learn.Microsoft](https://learn.microsoft.com/en-us/users/me/)
