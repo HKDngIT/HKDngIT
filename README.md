@@ -1,7 +1,9 @@
 ![logos](./Images/CPP.jpg)
 - 👋 Hi, I’m @HKDngIT (Khiem)
 - 👀 After years of theory in school, study and simple coding I want to finally put my know-how into use in the IT industry!
-- ✨ I have basic knowledge in Java, C and C++...
+- ✨ I have basic knowledge in
+  - Java (3 school years and one semester)
+  - C and C++ (2 semesters and a team project)
 - 😊 ... and in electrical science as well - I'm still a student at "Technische Hochschule Ulm"
 - 🌱 I’m currently learning C# and refreshing my knowledge in HTML+CSS...
 - 😄 Pronouns: He/ Him
