@@ -1,13 +1,13 @@
 ![logos](./Images/CPP.jpg)
-- 👋 Hi, I’m @HKDngIT (Khiem)
-- 👀 After years of theory in school, study and simple coding I want to finally put my know-how into use in the IT industry!
-- ✨ I have basic knowledge in
+- Hi, I’m @HKDngIT (Khiem)
+- After years of theory in school, study and simple coding I want to finally put my know-how into use in the IT industry!
+- I have basic knowledge in
   - Java (3 school years and one semester)
   - C and C++ (2 semesters and a team project)
-- 😊 ... and in electrical science as well - I'm still a student at "Technische Hochschule Ulm"
-- 🌱 I’m currently learning C# and refreshing my knowledge in HTML+CSS...
-- 😄 Pronouns: He/ Him
-- ⭐ Main goal is to grow my knowledge and add more and more projects to my repositories
+- ... and in electrical science as well - I'm still a student at "Technische Hochschule Ulm"
+- I’m currently learning C# and refreshing my knowledge in HTML+CSS...
+- Pronouns: He/ Him
+- Main goal is to expand my knowledge and add more and more projects to my repositories
   
 # Tasks and projects in planning
   - [ ] Rewrite most of my current source code of tasks from C++ to C#(if possible)
