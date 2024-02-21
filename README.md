@@ -6,7 +6,6 @@
   - C and C++ (2 semesters and a team project)
 - ... and in electrical science as well - I'm still a student at "Technische Hochschule Ulm"
 - I’m currently learning C# and refreshing my knowledge in HTML+CSS...
-- Pronouns: He/ Him
 - Main goal is to expand my knowledge and add more and more projects to my repositories
   
 # Tasks and projects in planning
