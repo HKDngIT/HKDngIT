@@ -2,19 +2,27 @@
 Benchmark data is taken from 3DMark.com
 [link](https://www.3dmark.com/de/)  
 Price data is taken from Alternate [link](https://www.alternate.de/configurator.xhtml?pca=20&pco=44&pcp=1&pcs=relevance&filter_7171=660)  
+Additional data [link](https://www.techpowerup.com/gpu-specs/)  
 Date: 13. Feb 2024
 
 
 # GPUs
 GPU | Avg. price | 3DMark Time Spy average score | Benchmark count | 3DMark Speed Way average score | Benchmark count | paired with CPU | GPU launch date |
 :-: | :--------: | :---------------------------: | :-------------: | :----------------------------: | :-------------: | :-------------: | :-------------: |
+RTX 4090 | 1900 € | 32519 | 32658 | 10007 | 8689 | i7-13700K | September 2022 |
+RTX 4080 Super | 1150 € | 26922 | 642 | 7506 | 218 | i7-13700K | January 2024 |
 RTX 4070 TI Super | 900 € | 23783 | 349 | 6383 | 65 | i7-13700K | January 2024 |
 RTX 4070 Super | 700 € |  20977 | 243 | 5299 | 47 | i7-13700K | January 2024 |
 RTX 4070 | 600 € | 18116 | 4897 | 4474 | 801 | i7-13700K | April 2023 |
 RTX 4060 TI 16GB | 500 € | 14050 | 196 | 3201 | 45 | i7-13700K | July 2023 |
+RTX 4060 8GB | 350 € | 11422 | 289 | 2647 | 51 | i7-13700K | May 2023 |
+RTX 3060 12GB | 300 € | 9502 | 1178 | 2172 | 197 | i7-13700K | January 2021 |
+GTX 1080 TI | - | 10660 | 728 | - | - | i7-13700K | March 2017 |
+GTX 1070 | - | 6738 | 463 | - | - | i7-13700K | June 2016
 GTX 1060 6GB | 100 € | 4712 | 237 | - | - | i7-13700K | ~ 2017 |
 RX 7900 XT | 850 € | 25266 | 2463 | 5323 | 428 | i7-13700K | November 2022 |
 RX 7800 XT | 600 € | 20043 | 690 | 3982 | 83 | i7-13700K | August 2023 |
+RX 7700 XT | 480 € | 17931 | 23 | 3148 | 1 | i7-13700K | August 2023 |
 
 
 # CPUs
