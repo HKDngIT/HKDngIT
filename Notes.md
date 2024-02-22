@@ -43,3 +43,17 @@ Ryzen 7 5800X3D | 290 € | 7293 | 37590 | Apr 2022 | 105 W |
 Ryzen 5 7600X | 220 € | 7029 | 5945 | Sep 2022 | 105 W |
 Ryzen 5 7600 | 210 € | 6616 | 2334 | Jan 2023 | 65 W |
 Ryzen 5 5600X | 160 € | 5685 | 66257 | Nov 2020 | 65 W |
+
+
+# Interesting finished builds
+
+## TechSource 1100 $ Build
+- AMD Ryzen 5 7600 (AM5 - "Future proof")
+- 16 GB RAM 4800 MHz
+- RX 7800 XT
+- 800W PSU
+- Date of Build *30.09.2023*
+- [Link to video](https://youtu.be/HRXvGd8RmLE)
+
+![cpu10GameAverage](/Images/01_CPU10GameAverage.jpg)  
+![GPU15GameAverage](/Images/02_GPU15GameAverage.jpg)
