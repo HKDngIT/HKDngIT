@@ -13,10 +13,11 @@
   - [ ] Analysis program for my aquarium water parameters (in C++ or Java I dont know yet)
   - [ ] Implement the same program into an android-application
   - [ ] Making a simple kanban program
-  - [ ] Using old laptop as a local file server for personal use
+  - [ ] Program(s) for basic eletrical science or math problems with C#
  
 # Currently working on
-- [ ] Program(s) for basic eletrical science or math problems with C#
+  - [ ] working on my website using the book **HTML5 Websiten erstellen - Grundlagen ISBN 978-3-98569-175-3**
+
 
 # Finished tasks or projects
 - [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
