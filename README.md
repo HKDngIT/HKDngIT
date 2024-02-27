@@ -10,7 +10,7 @@
   
 # Tasks and projects in planning or on hold
   - [ ] Rewrite most of my current source code of tasks from C++ to C#(if possible)
-  - [ ] Analysis program for my aquarium water parameters (c++/ Java/ C# ?)
+  - [ ] Analysis program for my aquarium water parameters (C++/ Java/ C# ?)
   - [ ] Implement the same program into an android-application
   - [ ] Making a simple kanban program
   - [ ] working on my website using the book **HTML5 Websiten erstellen - Grundlagen ISBN 978-3-98569-175-3**
