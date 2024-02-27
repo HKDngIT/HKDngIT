@@ -8,15 +8,16 @@
 - I’m currently learning C# and refreshing my knowledge in HTML+CSS...
 - Main goal is to expand my knowledge and add more and more projects to my repositories
   
-# Tasks and projects in planning
+# Tasks and projects in planning or on hold
   - [ ] Rewrite most of my current source code of tasks from C++ to C#(if possible)
   - [ ] Analysis program for my aquarium water parameters (in C++ or Java I dont know yet)
   - [ ] Implement the same program into an android-application
   - [ ] Making a simple kanban program
-  - [ ] Program(s) for basic eletrical science or math problems with C#
+  - [ ] working on my website using the book **HTML5 Websiten erstellen - Grundlagen ISBN 978-3-98569-175-3**
+  - [ ] Working with others on a open-source-project
  
 # Currently working on
-  - [ ] working on my website using the book **HTML5 Websiten erstellen - Grundlagen ISBN 978-3-98569-175-3**
+- [ ] Program(s) for basic eletrical science or math problems with C#
 
 
 # Finished tasks or projects
