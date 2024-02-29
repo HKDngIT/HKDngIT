@@ -23,7 +23,14 @@
 # Finished tasks or projects
 - [x] Switching OS on old Laptop from Windows 8 into Linux for future use(I used Pop!OS)
 - [x] A simple HTML site(+CSS & Javascript) with the experience gained from microsoft learn modules(see below in section *Other profiles*). The link to the website is https://hkdngit.github.io/OwnWebsite/ using GITHUB PAGE to publish the site
+
+# Programs
+In C#
+- [x] Simple calculator
+- [x] Memory game 
 - [x] Star-Delta-Transformation program
+- [x] Program with basic operations for 3x3 matrices
+- [ ] Program to summarice complex resistors/ impedances
 
 # Other profiles
 At [Learn.Microsoft](https://learn.microsoft.com/en-us/users/me/)
