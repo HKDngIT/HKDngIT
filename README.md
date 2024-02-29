@@ -28,9 +28,9 @@
 In C#
 - [x] Simple calculator
 - [x] Memory game 
-- [x] Star-Delta-Transformation program
-- [x] Program with basic operations for 3x3 matrices
-- [ ] Program to summarice complex resistors/ impedances
+- [x] ES: Star-Delta-Transformation program
+- [x] M: Program with basic operations for 3x3 matrices
+- [ ] ES: Program to summarice complex resistors/ impedances
 
 # Other profiles
 At [Learn.Microsoft](https://learn.microsoft.com/en-us/users/me/)
@@ -39,7 +39,11 @@ completed modules:
   [Link to achievement](https://learn.microsoft.com/api/achievements/share/en-us/HKDng97-9570/FZ9GPCNX?sharingId=40C5DF22D22FE35F)  
   Repository [here](https://github.com/HKDngIT/OwnWebsite/tree/main)  
  
-
+# Glossary
+### E
+- ES: Electrical science
+### M
+- M: Math
 <!---
 HKDngIT/HKDngIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
