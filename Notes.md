@@ -1,10 +1,8 @@
-# Planning-Notes for new PC
-Benchmark data is taken from 3DMark.com
+# Planning-Notes for my new PC
+Benchmark data is taken from 3DMark.com and from https://gamersnexus.net/
 [link](https://www.3dmark.com/de/)  
 Price data is taken from Alternate [link](https://www.alternate.de/configurator.xhtml?pca=20&pco=44&pcp=1&pcs=relevance&filter_7171=660)  
 Additional data [link](https://www.techpowerup.com/gpu-specs/)  
-Date: 13. Feb 2024
-
 
 # GPUs
 GPU | Avg. price | 3DMark Time Spy average score | Benchmark count | 3DMark Speed Way average score | Benchmark count | paired with CPU | GPU launch date |
@@ -57,3 +55,51 @@ Ryzen 5 5600X | 160 € | 5685 | 66257 | Nov 2020 | 65 W |
 
 ![cpu10GameAverage](/Images/01_CPU10GameAverage.jpg)  
 ![GPU15GameAverage](/Images/02_GPU15GameAverage.jpg)
+
+# More benchmarks etc.
+## GN Recent CPUs
+![Benchmarks](/Images/01GN.jpg)
+![Benchmarks](/Images/02GN.jpg)
+![Benchmarks](/Images/03GN.jpg)
+![Benchmarks](/Images/04GN.jpg)
+![Benchmarks](/Images/05GN.jpg)
+![Benchmarks](/Images/06GN.jpg)
+![Benchmarks](/Images/07GN.jpg)
+![Benchmarks](/Images/08GN.jpg)
+![Benchmarks](/Images/09GN.jpg)
+![Benchmarks](/Images/10GN.jpg)
+![Benchmarks](/Images/11GN.jpg)
+![Benchmarks](/Images/12GN.jpg)
+![Benchmarks](/Images/13GN.jpg)
+![Benchmarks](/Images/14GN.jpg)
+
+## GN Recent GPUs
+![Benchmarks](/Images/01GN_GPUs.jpg)
+![Benchmarks](/Images/02GN_GPUs.jpg)
+![Benchmarks](/Images/03GN_GPUs.jpg)
+![Benchmarks](/Images/04GN_GPUs.jpg)
+![Benchmarks](/Images/05GN_GPUs.jpg)
+![Benchmarks](/Images/06GN_GPUs.jpg)
+![Benchmarks](/Images/07GN_GPUs.jpg)
+![Benchmarks](/Images/08GN_GPUs.jpg)
+![Benchmarks](/Images/09GN_GPUs.jpg)
+![Benchmarks](/Images/10GN_GPUs.jpg)
+![Benchmarks](/Images/11GN_GPUs.jpg)
+![Benchmarks](/Images/12GN_GPUs.jpg)
+![Benchmarks](/Images/13GN_GPUs.jpg)
+![Benchmarks](/Images/14GN_GPUs.jpg)
+![Benchmarks](/Images/15GN_GPUs.jpg)
+![Benchmarks](/Images/16GN_GPUs.jpg)
+![Benchmarks](/Images/17GN_GPUs.jpg)
+![Benchmarks](/Images/18GN_GPUs.jpg)
+![Benchmarks](/Images/19GN_GPUs.jpg)
+![Benchmarks](/Images/20GN_GPUs.jpg)
+![Benchmarks](/Images/21GN_GPUs.jpg)
+![Benchmarks](/Images/22GN_GPUs.jpg)
+![Benchmarks](/Images/23GN_GPUs.jpg)
+![Benchmarks](/Images/24GN_GPUs.jpg)
+![Benchmarks](/Images/25GN_GPUs.jpg)
+![Benchmarks](/Images/26GN_GPUs.jpg)
+![Benchmarks](/Images/27GN_GPUs.jpg)
+![Benchmarks](/Images/28GN_GPUs.jpg)
+![Benchmarks](/Images/29GN_GPUs.jpg)
