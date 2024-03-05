@@ -3,6 +3,7 @@ Benchmark data is taken from 3DMark.com and from https://gamersnexus.net/
 [link](https://www.3dmark.com/de/)  
 Price data is taken from Alternate [link](https://www.alternate.de/configurator.xhtml?pca=20&pco=44&pcp=1&pcs=relevance&filter_7171=660)  
 Additional data [link](https://www.techpowerup.com/gpu-specs/)  
+Motherboard Reviews for AM4 sockets [link](https://www.youtube.com/watch?v=HSY9rDsQgd4)
 
 # GPUs
 GPU | Avg. price | 3DMark Time Spy average score | Benchmark count | 3DMark Speed Way average score | Benchmark count | paired with CPU | GPU launch date |
