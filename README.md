@@ -30,7 +30,7 @@ In C#
 - [x] Memory game 
 - [x] ES: Star-Delta-Transformation program
 - [x] M: Program with basic operations for 3x3 matrices
-- [ ] ES: Program to summarice complex resistors/ impedances
+- [x] ES: Program to summarice complex resistors/ impedances
 
 # Other profiles
 At [Learn.Microsoft](https://learn.microsoft.com/en-us/users/me/)
