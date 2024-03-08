@@ -9,7 +9,7 @@
 - Main goal is to expand my knowledge and add more and more projects to my repositories
   
 # Tasks and projects in planning or on hold
-  - [ ] Rewrite most of my current source code of tasks from C++ to C#(if possible)
+  - [ ] Program(s) for basic eletrical science or math problems with C#
   - [ ] Analysis program for my aquarium water parameters (C++/ Java/ C# ?)
   - [ ] Implement the same program into an android-application
   - [ ] Making a simple kanban program
@@ -17,7 +17,7 @@
   - [ ] Working with others on a open-source-project
  
 # Currently working on
-- [ ] Program(s) for basic eletrical science or math problems with C#
+- [ ] Rewrite most of my current exercises from C++ to C#(if possible)
 
 
 # Finished tasks or projects
