@@ -18,6 +18,7 @@
  
 # Currently working on
 - [ ] Rewrite most of my current exercises from C++ to C#(if possible)
+- [ ] Troubleshooting why VS Code doesnt run and debug properly on UBUNTU POP_OS!
 
 
 # Finished tasks or projects
