@@ -5,6 +5,31 @@ Price data is taken from Alternate [link](https://www.alternate.de/configurator.
 Additional data [link](https://www.techpowerup.com/gpu-specs/)  
 Motherboard Reviews for AM4 sockets [link](https://www.youtube.com/watch?v=HSY9rDsQgd4)
 
+# Prebuilt planning
+
+## CPU Ryzen 7 5800X3D
+- Best overall gaming performance on par with expensive CPUs which are up to double the price
+- POE CPU heavy
+## CPU Cooler be quiet! Dark Rock Pro 5
+- Self explanatory and is quiet
+## MAINBOARD MSI MPG B550 Gaming Plus
+- One of the best thermals [link](https://www.youtube.com/watch?v=HSY9rDsQgd4)
+## RAM G.SKILL DIMM 32 GB DDR4-3200 (2 x 16GB)
+- RGB for a bit of elegance
+## GPU ASUS RTX 4070 TUF GAMING OC
+- DLSS
+- 1440p for 1440p monitor
+- RGB ...
+- Very good cooling solutions
+## STORAGE SSD Samsung 980 Pro 2TB
+## CASE be quiet! Pure base 500FX
+- RGB for elegance
+- 4 Case coolers which are quiet
+## PSU be quiet! Pure 12M 850W
+- 850W is enough
+- is quiet
+
+
 # GPUs
 GPU | Avg. price | 3DMark Time Spy average score | Benchmark count | 3DMark Speed Way average score | Benchmark count | paired with CPU | GPU launch date |
 :-: | :--------: | :---------------------------: | :-------------: | :----------------------------: | :-------------: | :-------------: | :-------------: |
