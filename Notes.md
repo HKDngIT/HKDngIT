@@ -7,6 +7,22 @@ Motherboard Reviews for AM4 sockets [link](https://www.youtube.com/watch?v=HSY9r
 
 # Prebuilt planning
 
+Component | Name | Average price |
+:-------: | :--: | :-----------: |
+CPU Option 1 | Ryzen 7 5800X3D | 289 € |
+CPU Option 2 | Ryzen 7 5700X3D | 265 € |
+CPU Cooler Option 1 | be quiet! Pure Rock 2 FX | 45 € |
+CPU Cooler Option 2 | be quiet! Dark Rock Elite | 105 € |
+Mainboard | MSI MPG B550 Gaming Plus | 117 € |
+RAM | G.Skill DIMM 32 GB DDR4-3200 | 69 € |
+GPU Option 1 | RTX 4070 ASUS TUF GAMING OC | 669 € |
+GPU Option 2 | RX 7800 XT TUF GAMING OG OC | 587 € |
+Storage | Samsung 970 EVO 2TB SSD | 150 € |
+PSU | be quiet! System Power 10 850W non-modular | 97 € |
+Case | be quiet! PURE BASE 500 DX | 90 € |
+
+
+
 ## CPU Ryzen 7 5700X3D
 - Best overall gaming performance on par with expensive CPUs which are up to double the price
 - A bit weaker than 5800X3D for ~25 Euro less
