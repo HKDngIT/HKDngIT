@@ -3,7 +3,8 @@ Benchmark data is taken from 3DMark.com and from https://gamersnexus.net/
 [link](https://www.3dmark.com/de/)  
 Price data is taken from Alternate [link](https://www.alternate.de/configurator.xhtml?pca=20&pco=44&pcp=1&pcs=relevance&filter_7171=660)  
 Additional data [link](https://www.techpowerup.com/gpu-specs/)  
-Motherboard Reviews for AM4 sockets [link](https://www.youtube.com/watch?v=HSY9rDsQgd4)
+Motherboard Reviews for AM4 sockets [link](https://www.youtube.com/watch?v=HSY9rDsQgd4)  
+Extensive testing Ryzen 7 5700X3D vs 5800X3D [link](https://gamersnexus.net/cpus/new-amd-ryzen-7-5700x3d-cpu-review-benchmarks-vs-5800x3d-more)
 
 # Prebuilt planning
 
