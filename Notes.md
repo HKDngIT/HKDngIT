@@ -7,24 +7,29 @@ Motherboard Reviews for AM4 sockets [link](https://www.youtube.com/watch?v=HSY9r
 
 # Prebuilt planning
 
-## CPU Ryzen 7 5800X3D
+## CPU Ryzen 7 5700X3D
 - Best overall gaming performance on par with expensive CPUs which are up to double the price
-- POE CPU heavy
-## CPU Cooler be quiet! Dark Rock Pro 5
+- A bit weaker than 5800X3D for ~25 Euro less
+- POE is CPU heavy
+## CPU Cooler be quiet! Pure Rock 2 FX
 - Self explanatory and is quiet
 ## MAINBOARD MSI MPG B550 Gaming Plus
 - One of the best thermals [link](https://www.youtube.com/watch?v=HSY9rDsQgd4)
 ## RAM G.SKILL DIMM 32 GB DDR4-3200 (2 x 16GB)
-- RGB for a bit of elegance
+- Self explanatory
 ## GPU ASUS RTX 4070 TUF GAMING OC
 - DLSS
 - 1440p for 1440p monitor
 - RGB ...
 - Very good cooling solutions
-## STORAGE SSD Samsung 980 Pro 2TB
-## CASE be quiet! Pure base 500FX
-- RGB for elegance
-- 4 Case coolers which are quiet
+## GPU ASUS Radeon RX 7800 XT TUF Gaming OC
+- On many games better than RTX 4070
+- Much cheaper than RTX 4070
+- More VRAM than RTX 4070 (16GB vs 12GB)
+- More power hungry
+## STORAGE SSD Samsung 970 Pro 2TB
+## CASE be quiet! Pure base 500DX
+- quiet
 ## PSU be quiet! Pure 12M 850W
 - 850W is enough
 - is quiet
