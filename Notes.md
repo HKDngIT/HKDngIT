@@ -1,4 +1,6 @@
 # Planning-Notes for my new PC
+
+## Sources of data
 Benchmark data is taken from [3DMark.com](https://www.3dmark.com/de/) and from https://gamersnexus.net/  
 Price data is taken from Alternate [link](https://www.alternate.de/configurator.xhtml?pca=20&pco=44&pcp=1&pcs=relevance&filter_7171=660)  
 Additional data [link](https://www.techpowerup.com/gpu-specs/)  
