@@ -15,10 +15,10 @@
   - [ ] Making a simple kanban program
   - [ ] working on my website using the book **HTML5 Websiten erstellen - Grundlagen ISBN 978-3-98569-175-3**
   - [ ] Working with others on a open-source-project
+  - [ ] Rewrite most of my current exercises from C++ to C#(if possible)
  
 # Currently working on
-- [ ] Rewrite most of my current exercises from C++ to C#(if possible)
-- [ ] Troubleshooting why VS Code doesnt run and debug properly on LINUX UBUNTU POP_OS!
+- Getting more familiar with terminal + GIT
 
 
 # Finished tasks or projects
