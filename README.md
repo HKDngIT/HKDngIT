@@ -15,10 +15,11 @@
   - [ ] Making a simple kanban program
   - [ ] working on my website using the book **HTML5 Websiten erstellen - Grundlagen ISBN 978-3-98569-175-3**
   - [ ] Working with others on a open-source-project
+  - [ ] Rewrite most of my current exercises from C++ to C#(if possible)
  
 # Currently working on
 - Getting more familiar with terminal + GIT
-- Rewrite most of my current exercises from C++ to C#(if possible)
+- Playing the Hacknet game and comparing it with real life applications
 
 
 # Finished tasks or projects
