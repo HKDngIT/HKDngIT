@@ -18,7 +18,7 @@ typedef struct Person
     char *name;
     int alter;
     int lebend;
-    Person *next;
+    struct Person *next;
 } Person;
 
 // Hinzufuegen von Person an die Liste - An das Listen-Ende!!!
@@ -55,15 +55,44 @@ void gebeListeAus(Person *listenKopf) {
     printf("Liste zu ende\n");
 }
 
+// Loeschen des letzten Listen-Elementes
+int entferneLetzteselement(Person **listenKopf) {
+    int erfolgreich = 1;
+    Person *aktuellesElement = *listenKopf;
+    Person *vorigesElement = aktuellesElement;
+    if(*listenKopf != NULL) {
+        while(aktuellesElement->next != NULL) {
+            vorigesElement = aktuellesElement;
+            aktuellesElement = aktuellesElement->next;
+        }
+        free(aktuellesElement);
+        if(vorigesElement!=aktuellesElement) {
+            vorigesElement->next = NULL;
+        } else {
+            *listenKopf = NULL; // Verweis auf Listenkopf loeschen
+        }
+    } else {
+        erfolgreich = 0;
+    }
+    return erfolgreich;
+}
+
 // Main Methode
 int main()
 {
-    Person *kopfDerListe = NULL;
-    anhaengen(&kopfDerListe, "Hai Bui", 31, 1);
-    anhaengen(&kopfDerListe, "Dennis Bui", 25, 1);
-    anhaengen(&kopfDerListe, "Vanessa Bui", 21, 1);
-    anhaengen(&kopfDerListe, "David Bui", 16, 1);
+    Person *kopfDerListe_Kinder = NULL;
+    anhaengen(&kopfDerListe_Kinder, "Hai Bui", 31, 1);
+    anhaengen(&kopfDerListe_Kinder, "Dennis Bui", 25, 1);
+    anhaengen(&kopfDerListe_Kinder, "Vanessa Bui", 21, 1);
+    anhaengen(&kopfDerListe_Kinder, "David Bui", 16, 1);
 
-    gebeListeAus(kopfDerListe);
+    gebeListeAus(kopfDerListe_Kinder);
+
+    printf("\nLoesche Liste fuer das Beenden des Programms...\n");
+    while(kopfDerListe_Kinder != NULL){
+        entferneLetzteselement(&kopfDerListe_Kinder);
+        printf("\nloesche");
+    }
+    printf("\n");
 }
 ```
