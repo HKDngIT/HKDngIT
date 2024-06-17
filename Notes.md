@@ -18,11 +18,12 @@ typedef struct Person
     char *name;
     int alter;
     int lebend;
+    char *rolle;
     struct Person *next;
 } Person;
 
 // Hinzufuegen von Person an die Liste - An das Listen-Ende!!!
-void anhaengen(Person **listenKopf, char *name, int alter, int lebend) {
+void anhaengen(Person **listenKopf, char *name, int alter, int lebend, char *rolle) {
     Person *aktuellesElement = *listenKopf;
 
     // Listenelement allozieren
@@ -30,6 +31,7 @@ void anhaengen(Person **listenKopf, char *name, int alter, int lebend) {
     neuePerson->name = name;
     neuePerson->alter = alter;
     neuePerson->lebend = lebend;
+    neuePerson->rolle = rolle;
     neuePerson->next = NULL; // Markiert das Ende
 
     // Falls die Liste leer ist, wird es als Listenkopf erzeugt
@@ -49,7 +51,8 @@ void gebeListeAus(Person *listenKopf) {
     while(aktuellesElement != NULL) {
         printf("Name: %s", aktuellesElement->name);
         printf("\nAlter: %d", aktuellesElement->alter);
-        printf("\nLebend: %d\n\n", aktuellesElement->lebend);
+        printf("\nLebend: %d", aktuellesElement->lebend);
+        printf("\nRolle: %s\n\n", aktuellesElement->rolle);
         aktuellesElement = aktuellesElement->next;
     }
     printf("Genration zu Ende\n\n");
@@ -105,20 +108,20 @@ int main()
 {
     Person *DritteGeneration = NULL;
     printf("Dritte Generation\n\n");
-    anhaengen(&DritteGeneration, "Hai Bui", 31, 1);
-    anhaengen(&DritteGeneration, "Dennis Bui", 25, 1);
-    anhaengen(&DritteGeneration, "Vanessa Bui", 21, 1);
-    anhaengen(&DritteGeneration, "David Bui", 16, 1);
+    anhaengen(&DritteGeneration, "Hai Bui", 31, 1, "Bruder");
+    anhaengen(&DritteGeneration, "Dennis Bui", 25, 1, "Bruder");
+    anhaengen(&DritteGeneration, "Vanessa Bui", 21, 1, "Ich");
+    anhaengen(&DritteGeneration, "David Bui", 16, 1, "Bruder");
 
     gebeListeAus(DritteGeneration);
 printf("|######################################################################|\n");
 
     Person *ZweiteGeneration = NULL;
     printf("Zweitgeneration:\n\n");
-    anhaengen(&ZweiteGeneration, "Thanh Bui", 58, 1);
-    anhaengen(&ZweiteGeneration, "To Anh Nguyen", 55, 1);
-    anhaengen(&ZweiteGeneration, "Tram Anh Nguyen", 58, 1);
-    anhaengen(&ZweiteGeneration, "Trung Nguyen", 50, 1);
+    anhaengen(&ZweiteGeneration, "Thanh Bui", 58, 1, "Vater");
+    anhaengen(&ZweiteGeneration, "To Anh Nguyen", 55, 1, "Mutter");
+    anhaengen(&ZweiteGeneration, "Tram Anh Nguyen", 58, 1, "Tante");
+    anhaengen(&ZweiteGeneration, "Trung Nguyen", 50, 1, "Onkel");
 
     gebeListeAus(ZweiteGeneration);
     printf("|######################################################################|\n");
@@ -126,10 +129,10 @@ printf("|######################################################################|
 
     Person *ErsteGeneration = NULL;
     printf("Erste Generation:\n\n");
-    anhaengen(&ErsteGeneration, "Tram Nguyen", 80, 1);
-    anhaengen(&ErsteGeneration, "Noi Bui", 93, 1);
-    anhaengen(&ErsteGeneration, "Ong Lu", 95, 0);
-    anhaengen(&ErsteGeneration, "Ong Bui", 85, 0);
+    anhaengen(&ErsteGeneration, "Tram Nguyen", 80, 1, "Oma - Mütterlicher Seite");
+    anhaengen(&ErsteGeneration, "Noi Bui", 93, 1, "Oma - Väterliche Seite");
+    anhaengen(&ErsteGeneration, "Ong Lu", 95, 0, "Opa - Mütterlicher Seite");
+    anhaengen(&ErsteGeneration, "Ong Bui", 85, 0, "Opa - Väterliche Seite");
 
     gebeListeAus(ErsteGeneration);
     printf("|######################################################################|\n");
@@ -139,7 +142,7 @@ printf("|######################################################################|
     if(sucheKhiem == NULL){
         printf("Khiem wurde nicht gefunden.\n");
     } else {
-        printf("Name: %s, Alter: %d, Lebend: %d\n", sucheKhiem->name, sucheKhiem->alter, sucheKhiem->lebend);
+        printf("Name: %s, Alter: %d, Lebend: %d, Rolle: %s\n", sucheKhiem->name, sucheKhiem->alter, sucheKhiem->lebend, sucheKhiem->rolle);
     }
 
     printf("\nSuche nach Thanh Bui...\n");
@@ -147,7 +150,7 @@ printf("|######################################################################|
     if(sucheThanhBui == NULL){
         printf("\nKhiem wurde nicht gefunden.\n");
     } else {
-        printf("Name: %s, Alter: %d, Lebend: %d\n", sucheThanhBui->name, sucheThanhBui->alter, sucheThanhBui->lebend);
+        printf("Name: %s, Alter: %d, Lebend: %d, Rolle: %s\n", sucheThanhBui->name, sucheThanhBui->alter, sucheThanhBui->lebend, sucheThanhBui->rolle);
     }
 
     printf("\nLoesche Liste fuer das Beenden des Programms...\n");
