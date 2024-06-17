@@ -24,7 +24,7 @@ typedef struct Person
 // Hinzufuegen von Person an die Liste - An das Listen-Ende!!!
 void anhaengen(Person **listenKopf, char *name, int alter, int lebend) {
     Person *aktuellesElement = *listenKopf;
-    
+
     // Listenelement allozieren
     Person *neuePerson = (Person *) malloc (sizeof(Person));
     neuePerson->name = name;
@@ -52,7 +52,7 @@ void gebeListeAus(Person *listenKopf) {
         printf("\nLebend: %d\n\n", aktuellesElement->lebend);
         aktuellesElement = aktuellesElement->next;
     }
-    printf("Liste zu ende\n");
+    printf("Genration zu Ende\n\n");
 }
 
 // Loeschen des letzten Listen-Elementes
@@ -77,22 +77,93 @@ int entferneLetzteselement(Person **listenKopf) {
     return erfolgreich;
 }
 
+// Suchen einer Person mit Namen
+Person *pSuche(Person *listenKopf, char* name) {
+    if(listenKopf != NULL){
+        Person *aktuellesElement = listenKopf;
+        int check = 1;
+        if(name != NULL) {
+            check = strcmp(aktuellesElement->name, name);
+            while(check != 0 && aktuellesElement->next != NULL) {
+                aktuellesElement = aktuellesElement->next;
+                check = strcmp(aktuellesElement->name, name);
+            }
+        }
+        // Letzter check ob Person gefunden wurde...
+        if(check == 0) {
+            return aktuellesElement;
+        } else {
+            return NULL;
+        }
+    } else {
+        printf("\nListe ist leer!\n");
+    }
+}
+
 // Main Methode
 int main()
 {
-    Person *kopfDerListe_Kinder = NULL;
-    anhaengen(&kopfDerListe_Kinder, "Hai Bui", 31, 1);
-    anhaengen(&kopfDerListe_Kinder, "Dennis Bui", 25, 1);
-    anhaengen(&kopfDerListe_Kinder, "Vanessa Bui", 21, 1);
-    anhaengen(&kopfDerListe_Kinder, "David Bui", 16, 1);
+    Person *DritteGeneration = NULL;
+    printf("Dritte Generation\n\n");
+    anhaengen(&DritteGeneration, "Hai Bui", 31, 1);
+    anhaengen(&DritteGeneration, "Dennis Bui", 25, 1);
+    anhaengen(&DritteGeneration, "Vanessa Bui", 21, 1);
+    anhaengen(&DritteGeneration, "David Bui", 16, 1);
 
-    gebeListeAus(kopfDerListe_Kinder);
+    gebeListeAus(DritteGeneration);
+printf("|######################################################################|\n");
+
+    Person *ZweiteGeneration = NULL;
+    printf("Zweitgeneration:\n\n");
+    anhaengen(&ZweiteGeneration, "Thanh Bui", 58, 1);
+    anhaengen(&ZweiteGeneration, "To Anh Nguyen", 55, 1);
+    anhaengen(&ZweiteGeneration, "Tram Anh Nguyen", 58, 1);
+    anhaengen(&ZweiteGeneration, "Trung Nguyen", 50, 1);
+
+    gebeListeAus(ZweiteGeneration);
+    printf("|######################################################################|\n");
+
+
+    Person *ErsteGeneration = NULL;
+    printf("Erste Generation:\n\n");
+    anhaengen(&ErsteGeneration, "Tram Nguyen", 80, 1);
+    anhaengen(&ErsteGeneration, "Noi Bui", 93, 1);
+    anhaengen(&ErsteGeneration, "Ong Lu", 95, 0);
+    anhaengen(&ErsteGeneration, "Ong Bui", 85, 0);
+
+    gebeListeAus(ErsteGeneration);
+    printf("|######################################################################|\n");
+
+    printf("\nSuche nach Khiem...\n");
+    Person *sucheKhiem = pSuche(DritteGeneration, "Khiem");
+    if(sucheKhiem == NULL){
+        printf("Khiem wurde nicht gefunden.\n");
+    } else {
+        printf("Name: %s, Alter: %d, Lebend: %d\n", sucheKhiem->name, sucheKhiem->alter, sucheKhiem->lebend);
+    }
+
+    printf("\nSuche nach Thanh Bui...\n");
+    Person *sucheThanhBui = pSuche(ZweiteGeneration, "Thanh Bui");
+    if(sucheThanhBui == NULL){
+        printf("\nKhiem wurde nicht gefunden.\n");
+    } else {
+        printf("Name: %s, Alter: %d, Lebend: %d\n", sucheThanhBui->name, sucheThanhBui->alter, sucheThanhBui->lebend);
+    }
 
     printf("\nLoesche Liste fuer das Beenden des Programms...\n");
-    while(kopfDerListe_Kinder != NULL){
-        entferneLetzteselement(&kopfDerListe_Kinder);
-        printf("\nloesche");
+    int geloeschtePersonen = 0;
+    while(DritteGeneration != NULL){
+        entferneLetzteselement(&DritteGeneration);
+        geloeschtePersonen++;
     }
-    printf("\n");
+    while(ZweiteGeneration != NULL){
+        entferneLetzteselement(&ZweiteGeneration);
+        geloeschtePersonen++;
+    }
+    while(ErsteGeneration != NULL){
+        entferneLetzteselement(&ErsteGeneration);
+        geloeschtePersonen++;
+    }
+    printf("\nGeloeschte Personen: %d", geloeschtePersonen);
 }
 ```
