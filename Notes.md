@@ -38,6 +38,7 @@ void anhaengen(Person **listenKopf, char *name, int alter, int lebend, char *rol
     if(aktuellesElement == NULL) {
         *listenKopf = neuePerson;
     } else {
+        // Gehe bis zum Ende der Liste und füge es dann hinzu
         while(aktuellesElement->next != NULL) {
             aktuellesElement = aktuellesElement->next;
         }
@@ -48,6 +49,7 @@ void anhaengen(Person **listenKopf, char *name, int alter, int lebend, char *rol
 // Ausgabe aller Personen
 void gebeListeAus(Person *listenKopf) {
     Person *aktuellesElement = listenKopf;
+    // Gehe bis zum Listenende und gebe dabei immer die aktuelle Person aus
     while(aktuellesElement != NULL) {
         printf("Name: %s", aktuellesElement->name);
         printf("\nAlter: %d", aktuellesElement->alter);
@@ -59,10 +61,13 @@ void gebeListeAus(Person *listenKopf) {
 }
 
 // Loeschen des letzten Listen-Elementes
+// @return 1 wenn erfolgreich gelöscht wurde
+// @return 0 wenn nichts gelöscht wurde
 int entferneLetzteselement(Person **listenKopf) {
     int erfolgreich = 1;
     Person *aktuellesElement = *listenKopf;
     Person *vorigesElement = aktuellesElement;
+    // Wenn Listenkopf nicht leer ist
     if(*listenKopf != NULL) {
         while(aktuellesElement->next != NULL) {
             vorigesElement = aktuellesElement;
@@ -74,6 +79,7 @@ int entferneLetzteselement(Person **listenKopf) {
         } else {
             *listenKopf = NULL; // Verweis auf Listenkopf loeschen
         }
+    // Wenn Listenkopf leer ist
     } else {
         erfolgreich = 0;
     }
@@ -82,17 +88,19 @@ int entferneLetzteselement(Person **listenKopf) {
 
 // Suchen einer Person mit Namen
 Person *pSuche(Person *listenKopf, char* name) {
+    // Wenn die Liste nicht leer ist...
     if(listenKopf != NULL){
         Person *aktuellesElement = listenKopf;
         int check = 1;
         if(name != NULL) {
-            check = strcmp(aktuellesElement->name, name);
+            check = strcmp(aktuellesElement->name, name); // strcmp vergleicht 2 strings -> 0 für TRUE, 1 für FALSE
+            // Wenn Name nicht gleicht und wenn der Zeiger auf nächste Person nicht NULL ist ...
             while(check != 0 && aktuellesElement->next != NULL) {
                 aktuellesElement = aktuellesElement->next;
                 check = strcmp(aktuellesElement->name, name);
             }
         }
-        // Letzter check ob Person gefunden wurde...
+        // Letzter check ob Person gefunden wurde... check ist '0' wenn gefunden wurde. '1' wenn nicht.
         if(check == 0) {
             return aktuellesElement;
         } else {
