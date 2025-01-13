@@ -64,7 +64,7 @@ void human_as_Player() {
     int word_length = strlen(secret_word);
     initialize_guessed_word(guessed_word, word_length);
 
-    while (attempts < MAX_ATTEMPTS && correct_guesses < word_length) {
+    while (attempts <= MAX_ATTEMPTS && correct_guesses < word_length) {
         printf("\nIhr aktueller Stand: %s\n", guessed_word);
         printf("Bereits verwendete Buchstaben: %s\n", guessed_letters);
 
@@ -168,10 +168,12 @@ void display_hangman(int attempts) {
             "  +---+\n  |   |\n      |\n      |\n      |\n      |\n=======\n",
             "  +---+\n  |   |\n  O   |\n      |\n      |\n      |\n=======\n",
             "  +---+\n  |   |\n  O   |\n  |   |\n      |\n      |\n=======\n",
+            "  +---+\n  |   |\n  O   |\n /|   |\n      |\n      |\n=======\n",
             "  +---+\n  |   |\n  O   |\n /|\\  |\n      |\n      |\n=======\n",
-            "  +---+\n  |   |\n  O   |\n /|\\  |\n / \\  |\n      |\n=======\n"
+            "  +---+\n  |   |\n  O   |\n /|\\  |\n /    |\n      |\n=======\n",
+            "  +---+\n  |   |\n  O   |\n /|\\  |\n / \\  |\n      |\n=======\n",
     };
-    if (attempts > 0 && attempts <= MAX_ATTEMPTS) {
+    if (attempts > 0 && attempts <= MAX_ATTEMPTS + 1) {
         printf("%s", hangman[attempts - 1]);
     }
 }
